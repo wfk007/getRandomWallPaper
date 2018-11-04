@@ -1,0 +1,16 @@
+{
+  "name": "getRandomWallPaper",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "wfk",
+  "license": "GPL",
+  "dependencies": {
+    "node-fetch": "^2.2.0",
+    "wallpaper": "^4.1.0"
+  },
+  "devDependencies": {}
+}
