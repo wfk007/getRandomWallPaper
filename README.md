@@ -1,0 +1,2 @@
+# getRandomWallPaper
+change wallpaper randomly
